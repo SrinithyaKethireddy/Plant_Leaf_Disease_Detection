@@ -74,8 +74,8 @@ These instructions assume you have `git` installed for working with Github from 
 
 1. Clone the repository, and navigate to the downloaded folder. Follow below commands.
 ```
-git clone https://github.com/johri-lab/Automatic-leaf-infection-identifier.git
-cd Automatic-leaf-infection-identifier
+git clone https://github.com/SrinithyaKethireddy/Plant_Leaf_Disease_Detection.git
+cd Plant_Leaf_Disease_Detection
 ```
 
 2. Install few required pip packages, which are specified in the requirements.txt file .
