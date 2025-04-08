@@ -128,14 +128,14 @@ The code runs on two files:
 ----
 [(Back to top)](#list-of-contents)
 
-- Repository: https://github.com/johri-lab/Automatic-leaf-infection-identifier
-- Issue tracker: https://github.com/johri-lab/Automatic-leaf-infection-identifier/issues
-  - In case of sensitive bugs or issues, please contact shikharjohri123@gmail.com directly instead of using issue tracker. We value your effort to improve the efficiency of this project!
-- Site: https://johri-lab.github.io/Automatic-leaf-infection-identifier/
+- Repository: https://github.com/SrinithyaKethireddy/Plant_Leaf_Disease_Detection
+- Issue tracker: https://github.com/SrinithyaKethireddy/Plant_Leaf_Disease_Detection/issues
+  - In case of sensitive bugs or issues, please contact srinithyakethireddy@gmail.com directly instead of using issue tracker. We value your effort to improve the efficiency of this project!
+- Site: https://github.com/SrinithyaKethireddy/Plant_Leaf_Disease_Detection
 
 
 ## License
 ---
 [(Back to top)](#list-of-contents)
 
-The code in this project is licensed under the MIT license 2018 - Shikhar Johri.
+The code in this project is licensed under the MIT license 2018 - Srinithya Kethireddy.
