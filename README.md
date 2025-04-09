@@ -135,4 +135,4 @@ The code runs on two files:
 ---
 [(Back to top)](#list-of-contents)
 
-The code in this project is licensed under the MIT license - Srinithya Kethireddy.
+The code in this project is licensed under the MIT license 2025 - Srinithya Kethireddy.
